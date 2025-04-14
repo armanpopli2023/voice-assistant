@@ -1,0 +1,13 @@
+numpy<=1.24.0
+torch==2.0.0
+openai-whisper==20231117
+numba
+tensorflow==2.15.0
+sounddevice==0.4.6
+webrtcvad==2.0.10
+openwakeword==0.6.0
+pydub==0.25.1
+ffmpeg-python==0.2.0
+fastapi==0.109.2
+uvicorn==0.27.1
+python-dotenv==1.0.0 

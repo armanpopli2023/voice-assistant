@@ -1,0 +1,10 @@
+numpy==1.22.0
+torch==2.2.2
+TTS==0.22.0
+transformers>=4.33.0
+spacy>=3.8.5
+sounddevice==0.4.6
+pydub==0.25.1
+fastapi==0.109.2
+uvicorn==0.27.1
+python-dotenv==1.0.0 
