@@ -1,0 +1,13 @@
+-r base.txt
+
+# STT dependencies
+openai-whisper>=20231117
+
+# TTS dependencies
+TTS>=0.17.6
+
+# Development tools
+pytest>=7.0.0
+black>=22.3.0
+flake8>=4.0.0
+mypy>=0.910 
