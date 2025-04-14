@@ -1,5 +1,6 @@
 numpy<=1.24.0
 torch==2.0.0
+torchaudio==2.0.0
 openai-whisper==20231117
 numba
 tensorflow==2.15.0
