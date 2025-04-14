@@ -4,5 +4,4 @@ sounddevice>=0.4.4
 scipy>=1.7.0
 pydub>=0.25.1
 webrtcvad>=2.0.10  # For voice activity detection
-openwakeword>=0.1.0  # For wake word detection
-tflite-runtime>=2.13.0  # Required by openwakeword 
+openwakeword>=0.1.0  # For wake word detection 
