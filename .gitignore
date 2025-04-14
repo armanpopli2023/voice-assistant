@@ -23,6 +23,8 @@ wheels/
 # Virtual Environment
 venv/
 venv_development/
+venv_stt/
+venv_tts/
 .env
 
 # IDE
